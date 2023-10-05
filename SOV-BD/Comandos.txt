@@ -1,0 +1,23 @@
+sudo apt update -y
+sudo apt upgrade -y
+sudo apr install mysql_server
+sudo su
+mysql_secure_installation
+sudo mysql -u root
+sudo su
+-- passwd root
+-- (admin)
+-- (admin)
+exit
+N -
+Y -
+N -
+Y -
+Y
+sudo mysql -u root
+exit
+sudo mysql -u root -p
+create user 'ronal'@'localhost' IDENTIFIED WITH mysql_native_password BY 'ronal123';
+GRANT ALL PRIVILEGES ON * . * TO 'ronal'@'localhost';
+flush privileges;
+exit
