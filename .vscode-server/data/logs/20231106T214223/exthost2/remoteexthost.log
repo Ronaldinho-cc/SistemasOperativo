@@ -1,0 +1,11 @@
+2023-11-06 21:48:04.940 [info] Extension host with pid 1677 started
+2023-11-06 21:48:04.959 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/45bd151bca68a02436a025611622baa5/vscode.lock': Lock acquired.
+2023-11-06 21:48:05.346 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-11-06 21:48:05.361 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-11-06 21:48:06.053 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-06 21:48:06.055 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-11-06 21:48:07.413 [info] Eager extensions activated
+2023-11-06 21:48:07.414 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-06 21:48:07.414 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-06 21:48:14.132 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-06 21:48:44.174 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'

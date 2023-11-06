@@ -1,0 +1,68 @@
+{
+    "window.newWindowDimensions": "maximized",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "files.associations": {
+        "*.md": "java"
+    },
+    "[java]": {},
+    "workbench.iconTheme": "material-icon-theme",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:PATH}"
+    },
+    "workbench.startupEditor": "none",
+    "github.branchProtection": true,
+    "github.codespaces.showPerformanceExplorer": false,
+    "http.proxyAuthorization": null,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDragAndDrop": false,
+    "remote.SSH.remotePlatform": {
+        "practica-SSH": "linux",
+        "server-shh": "linux",
+        "despliegue": "linux",
+        "despliegue2": "linux",
+        "practica": "linux",
+        "practicas": "linux",
+        "ejemplos_nuevo": "linux",
+        "tarea_nuevo": "linux",
+        "Ejemplo3": "linux",
+        "Example": "linux",
+        "ServerRonaldinho": "linux",
+        "Server2": "linux",
+        "Ubuntu_Server": "linux",
+        "Debian_Server": "linux",
+        "Ubuntu": "linux",
+        "DebianServer2": "linux",
+        "apache": "linux",
+        "nginxserver": "linux",
+        "apacheserver": "linux",
+        "Maria-Debian": "linux",
+        "server_Bd": "linux",
+        "LAM_server": "linux",
+        "omar": "linux",
+        "ejemplo": "linux",
+        "Node.js": "linux",
+        "serverNde": "linux",
+        "Database": "linux",
+        "mysql": "linux"
+    },
+    "chatgpt.lang": "en",
+    "chatgpt.max_tokens": 20480,
+    "chatgpt.proxy": "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",
+    "php.validate.executablePath": "php-validate",
+    "workbench.settings.applyToAllProfiles": [
+        "synthwave84.brightness",
+        "synthwave84.disableGlow"
+    ],
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "never",
+    "console-ninja.featureSet": "Community",
+    "workbench.colorTheme": "Shades of Purple (Super Dark)",
+    "editor.cursorBlinking": "expand",
+    "window.zoomLevel": 1,
+}
