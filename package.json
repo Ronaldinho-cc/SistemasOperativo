@@ -1,0 +1,15 @@
+{
+  "name": "ubuntu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conexion.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node conexion.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
